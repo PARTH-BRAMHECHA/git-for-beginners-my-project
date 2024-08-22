@@ -1,4 +1,4 @@
 Welcome to my project
 
-Author:Parth
+Author:Parth Anand
 email:parth.bramhecha1789@gmail.com
