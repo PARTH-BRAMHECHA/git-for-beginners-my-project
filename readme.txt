@@ -1,4 +1,4 @@
-Welcome to my project
+Welcome to my "Git for beginners " myproject!
 
 Author:Parth Anand Bramhecha
 
